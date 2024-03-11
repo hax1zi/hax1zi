@@ -19,10 +19,6 @@
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-0D1117?style=for-the-badge&logo=bootstrap&logoColor=483D8B&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{davidfontesfelix}/count.svg" /></p> 
-<br></div>
+![Go](https://img.shields.io/badge/-go-0D1117?style=for-the-badge&logo=go&labelColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
