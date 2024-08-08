@@ -9,7 +9,7 @@
   ┌──(kali㉿kali)-[~]
   └─$ cat note.txt   
   1 - Passionate about development and cybersecurity
-  2 - working with terminals since I was 14
+  2 - working with terminals since I was 16
   3 - no plan B
                                                                           
   ┌──(kali㉿kali)-[~]
