@@ -2,7 +2,7 @@
   ┌──(kali㉿kali)-[~]
   └─$ cat profile.txt 
   Name: David Fontes              Age: 18
-  Country: Brazil                 occupation: Cybersecurity
+  Country: Brazil                 occupation: Front-end
   Goal:
     -Be the best
                                                                           
